@@ -7,7 +7,7 @@ picture 1
 ![image](https://user-images.githubusercontent.com/48939847/145943719-69799e03-fc52-41ac-a431-3184ad187695.png)
 
 pic 2
-
+<p>
 ![image](https://user-images.githubusercontent.com/48939847/145943801-0455adaa-bf86-4d9c-9adb-d772b6e6d317.png)
 
 pic 3
@@ -24,7 +24,7 @@ pic 6
 
 pic 7
 
-
+</p>
 ![image](https://user-images.githubusercontent.com/48939847/145944133-4cf81fe2-20e4-438a-91d2-26e234959c53.png)
 
 pic 8
