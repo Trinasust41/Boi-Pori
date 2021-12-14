@@ -1,13 +1,45 @@
 # Boi-Pori
 Our project-Boi Pori is a web-based platform where people can easily find their desired books and order them.It will make the connection easier between people and books. The process will be easier as one can order books sitting at home.
-The banner
+
+# Project-Members
+      * Trina Chakraborty                   * Ayesha Afroze
+        email: trinasustcse41@gmail.com       email: ayeshaafroze1571@gmail.com
+        
+## Project-Demo
+[video link-boi_pori](https://drive.google.com/file/d/1Kt9ujLWRRuo0os-hiKrKFEg5WufWFAFg/view?usp=sharing)
+
+## Tools
+* Vscode
+* XAMPP
+* MYSQL
+
+## Languages
+* Html
+* Css
+* Js
+* mysql
+* php
+* bootstrap
+   
+#### Configuration Process:
+1. First install xampp from the website
+2. open the xampp server and click the apache action and mysql action on. we have used 3307 port so change it in the mysql config file and phpmyadmin config file according to the port number.
+3. Then download the zip folder and extract it in xampp htdocs folder (C:\xampp\htdocs).
+4. Open phpmyadmin from xampp mysql and create a database named boi_pori.
+5. In the database, import the sql file from C:\xampp\htdocs\boi_pori\sql_code
+6. In the crome, write http://localhost/boi_pori/ for the customer portion and register for the website from the given icon
+7. For the admin portion write, http://localhost/boi_pori/admin and 
+           admin username: admin
+           admin password: admin
+        
+
 
 picture 1
 
 ![image](https://user-images.githubusercontent.com/48939847/145943719-69799e03-fc52-41ac-a431-3184ad187695.png)
 
 pic 2
-<p>
+
 ![image](https://user-images.githubusercontent.com/48939847/145943801-0455adaa-bf86-4d9c-9adb-d772b6e6d317.png)
 
 pic 3
@@ -24,7 +56,7 @@ pic 6
 
 pic 7
 
-</p>
+
 ![image](https://user-images.githubusercontent.com/48939847/145944133-4cf81fe2-20e4-438a-91d2-26e234959c53.png)
 
 pic 8
