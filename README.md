@@ -80,22 +80,29 @@ Our project-Boi Pori is a web-based platform where people can easily find their 
 ![image](https://user-images.githubusercontent.com/48939847/145946014-abc3007b-dd76-4729-a28e-93fc7bb6e3b1.png)
 **The product list**
 ![image](https://user-images.githubusercontent.com/48939847/145945014-5bd16c45-eb9c-472c-8146-adcc3b6aa6ec.png)
-**The categories of the books**
+**The product list**
+
 ![image](https://user-images.githubusercontent.com/48939847/145945072-d791757d-3795-4d70-9aeb-2e4d3b8a6678.png)
-**The subcategories**
+**The categories of the books**
+
 ![image](https://user-images.githubusercontent.com/48939847/145945104-9db3c11e-d40a-44ff-a5b6-b23e381adfa8.png)
-**Showing all the orders that have been placed **
+**The subcategories**
+
 ![image](https://user-images.githubusercontent.com/48939847/145945132-a6a51035-b31c-4d9d-93d8-6b488f78e949.png)
-**The list of the users that have been registered to the website**
+**Showing all the orders that have been placed **
+
 ![image](https://user-images.githubusercontent.com/48939847/145945197-6390c923-2d0b-4c49-909f-4c9f8e32e266.png)
-**This option to control the site information**
+**The list of the users that have been registered to the website**
+
 ![image](https://user-images.githubusercontent.com/48939847/145945242-c8ed9fa5-acf0-4f82-b38e-80d3ae150cbf.png)
-##View of the database
+**This option to control the site information**
+
 ![image](https://user-images.githubusercontent.com/48939847/145945297-5ac03089-e974-46f9-a6e3-2a464989f59e.png)
+##View of the database
 
 ![image](https://user-images.githubusercontent.com/48939847/145944287-304533e5-e606-4050-94b8-f3383f990b66.png)
 
-pic 10
+##Sample of the code
 ![image](https://user-images.githubusercontent.com/48939847/145944416-46e3d650-c0fa-46e2-8a4b-78f5f859491a.png)
 
 
