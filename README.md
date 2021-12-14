@@ -72,14 +72,14 @@ Our project-Boi Pori is a web-based platform where people can easily find their 
 ![image](https://user-images.githubusercontent.com/48939847/145944573-cf90ec32-e49d-4261-97dc-4c84fd006976.png)
 **Showing the orders that have been placed by the customer**
 ![image](https://user-images.githubusercontent.com/48939847/145945944-0668ebc3-1a21-49bc-8b11-2288081d63be.png)
+**The confirmation that order has been placed**
+![image](https://user-images.githubusercontent.com/48939847/145945014-5bd16c45-eb9c-472c-8146-adcc3b6aa6ec.png)
 
 
-
-##The admin will have the following access for the Boi-Pori site:
+The admin will have the following access for the Boi-Pori site:
 **The dashboard that will show the scenary of the Boi-Pori**
 ![image](https://user-images.githubusercontent.com/48939847/145946014-abc3007b-dd76-4729-a28e-93fc7bb6e3b1.png)
-**The product list**
-![image](https://user-images.githubusercontent.com/48939847/145945014-5bd16c45-eb9c-472c-8146-adcc3b6aa6ec.png)
+
 **The product list**
 
 ![image](https://user-images.githubusercontent.com/48939847/145945072-d791757d-3795-4d70-9aeb-2e4d3b8a6678.png)
@@ -89,6 +89,7 @@ Our project-Boi Pori is a web-based platform where people can easily find their 
 **The subcategories**
 
 ![image](https://user-images.githubusercontent.com/48939847/145945132-a6a51035-b31c-4d9d-93d8-6b488f78e949.png)
+
 **Showing all the orders that have been placed **
 
 ![image](https://user-images.githubusercontent.com/48939847/145945197-6390c923-2d0b-4c49-909f-4c9f8e32e266.png)
@@ -98,11 +99,11 @@ Our project-Boi Pori is a web-based platform where people can easily find their 
 **This option to control the site information**
 
 ![image](https://user-images.githubusercontent.com/48939847/145945297-5ac03089-e974-46f9-a6e3-2a464989f59e.png)
-##View of the database
+View of the database
 
 ![image](https://user-images.githubusercontent.com/48939847/145944287-304533e5-e606-4050-94b8-f3383f990b66.png)
 
-##Sample of the code
+Sample of the code
 ![image](https://user-images.githubusercontent.com/48939847/145944416-46e3d650-c0fa-46e2-8a4b-78f5f859491a.png)
 
 
