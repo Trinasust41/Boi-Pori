@@ -32,25 +32,24 @@ Our project-Boi Pori is a web-based platform where people can easily find their 
            admin username: admin
            admin password: admin
         
+The customer will have the following access for the Boi-Pori site:
 
-
-picture 1
+**Viewing the website**
 
 ![image](https://user-images.githubusercontent.com/48939847/145943719-69799e03-fc52-41ac-a431-3184ad187695.png)
 
-pic 2
+**Create new account**
 
 ![image](https://user-images.githubusercontent.com/48939847/145943801-0455adaa-bf86-4d9c-9adb-d772b6e6d317.png)
 
-pic 3
+**Login**
 
 ![image](https://user-images.githubusercontent.com/48939847/145943874-16e3fd2f-51d7-4b8a-b81d-8b2c47bd502f.png)
 
-pic 5
+**Viewing the popular and latest products**
 
 ![image](https://user-images.githubusercontent.com/48939847/145944003-bd21b185-e21b-4793-9477-aa5b4ea26ff8.png)
 
-pic 6
 
 ![image](https://user-images.githubusercontent.com/48939847/145944052-d6aae761-d6ab-4690-84c3-a93f3119a0a8.png)
 
