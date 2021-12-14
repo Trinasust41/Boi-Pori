@@ -42,10 +42,12 @@ pic 11
 ![image](https://user-images.githubusercontent.com/48939847/145944549-29d2be1a-b456-4c8a-aa21-12f97420b0b0.png)
 ![image](https://user-images.githubusercontent.com/48939847/145944573-cf90ec32-e49d-4261-97dc-4c84fd006976.png)
 
-![image](https://user-images.githubusercontent.com/48939847/145944611-14794576-dded-444e-b498-994351394a46.png)
+![image](https://user-images.githubusercontent.com/48939847/145945944-0668ebc3-1a21-49bc-8b11-2288081d63be.png)
+
 
 
 admin
+![image](https://user-images.githubusercontent.com/48939847/145946014-abc3007b-dd76-4729-a28e-93fc7bb6e3b1.png)
 
 ![image](https://user-images.githubusercontent.com/48939847/145945014-5bd16c45-eb9c-472c-8146-adcc3b6aa6ec.png)
 ![image](https://user-images.githubusercontent.com/48939847/145945072-d791757d-3795-4d70-9aeb-2e4d3b8a6678.png)
