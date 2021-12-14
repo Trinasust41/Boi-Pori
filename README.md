@@ -51,9 +51,9 @@ The customer will have the following access for the Boi-Pori site:
 ![image](https://user-images.githubusercontent.com/48939847/145944003-bd21b185-e21b-4793-9477-aa5b4ea26ff8.png)
 
 
-![image](https://user-images.githubusercontent.com/48939847/145944052-d6aae761-d6ab-4690-84c3-a93f3119a0a8.png)
 
-pic 7
+
+
 
 
 ![image](https://user-images.githubusercontent.com/48939847/145944133-4cf81fe2-20e4-438a-91d2-26e234959c53.png)
